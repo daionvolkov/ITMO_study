@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\bin\Debug\net6.0\WhatDay3.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\bin\Debug\net6.0\WhatDay3.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\bin\Debug\net6.0\WhatDay3.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\bin\Debug\net6.0\WhatDay3.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\bin\Debug\net6.0\WhatDay3.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\refint\WhatDay3.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\WhatDay3.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab04\Starter\WhatDay3\WhatDay3\obj\Debug\net6.0\ref\WhatDay3.dll
