@@ -9,5 +9,6 @@
 **Starter**  - Лабораторная №2. Упражнение 1-3
 
 #### **Lab04** - Использование выражений и исключений
-\Starter\WhatDay1 - Упражнение 1
-\Starter\WhatDay2 - Упражнение 2
+\Starter\WhatDay1 - Упражнение 1.1 <br />
+\Starter\WhatDay2 - Упражнение 1.2 <br />
+\Starter\WhatDay3 - Упражнение 2
