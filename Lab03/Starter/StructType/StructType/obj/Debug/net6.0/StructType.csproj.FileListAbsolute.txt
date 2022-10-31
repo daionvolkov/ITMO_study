@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\bin\Debug\net6.0\StructType.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\bin\Debug\net6.0\StructType.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\bin\Debug\net6.0\StructType.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\bin\Debug\net6.0\StructType.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\bin\Debug\net6.0\StructType.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\refint\StructType.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\StructType.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab03\Starter\StructType\StructType\obj\Debug\net6.0\ref\StructType.dll

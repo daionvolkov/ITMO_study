@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\bin\Debug\net6.0\DivideIt.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\bin\Debug\net6.0\DivideIt.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\bin\Debug\net6.0\DivideIt.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\bin\Debug\net6.0\DivideIt.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\bin\Debug\net6.0\DivideIt.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\refint\DivideIt.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\DivideIt.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab02\DivideIt\DivideIt\obj\Debug\net6.0\ref\DivideIt.dll
