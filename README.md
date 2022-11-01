@@ -12,3 +12,7 @@
 \Starter\WhatDay1 - Упражнение 1.1 <br />
 \Starter\WhatDay2 - Упражнение 1.2 <br />
 \Starter\WhatDay3 - Упражнение 2
+
+#### **Lab05**
+Lab05\Starter\Utility - Создание и использование методов
+Utils\ - Упражнение 1, 2
