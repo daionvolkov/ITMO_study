@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net6.0\FileDetails.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net6.0\FileDetails.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net6.0\FileDetails.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net6.0\FileDetails.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\net6.0\FileDetails.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\refint\FileDetails.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\FileDetails.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\net6.0\ref\FileDetails.dll
