@@ -7,22 +7,22 @@
 [**Devider**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/Greetings) - Упражнение 4
 
 #### **Lab03** - Создание и использование размерных типов данных
-**Starter**  - Лабораторная №2. Упражнение 1-3
+[**BankAccount**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/BankAccount)  - Упражнение 1
+[**StructType**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/StructType)  - Упражнение 2-3
 
 #### **Lab04** - Использование выражений и исключений
-\Starter\WhatDay1 - Упражнение 1.1 <br />
-\Starter\WhatDay2 - Упражнение 1.2 <br />
-\Starter\WhatDay3 - Упражнение 2 <br />
+[**WhatDay1**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay1) - Упражнение 1.1 <br />
+[**WhatDay2**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay2) - Упражнение 1.2 <br />
+[**WhatDay3**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay3) - Упражнение 2 <br />
 
 #### **Lab05** Создание и использование методов 
-Lab05\Starter\Utility - Создание и использование методов <br />
-Utils\ - Упражнение 1, 2 <br />
+[**Utils**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab05/Starter/Utility/Utils) - Упражнение 1, 2 <br />
 
 #### **Lab06** Создание и использование классов
-\Starter\FileDetails -  Упражнение 1. Работа с массивами размерных типов <br />
-\Starter\MatrixMultiply - Упражнение 2. Перемножение матриц <br />
+[**FileDetails**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab06/Starter/FileDetails) -  Упражнение 1. Работа с массивами размерных типов <br />
+[**MatrixMultiply**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab06/Starter/MatrixMultiply) - Упражнение 2. Перемножение матриц <br />
 
 #### **Lab07** Создание и использование классов 
-\Starter\CreateAccount -  Упражнение 1. Cоздание и использование класса <br />
-\Starter\UniqueNumbers - Упражнение 2. Генерация номеров  <br />
-\Starter\MoreMethods - Упражнение 3. Добавление дополнительных public методов <br />
+[**CreateAccount**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/CreateAccount) -  Упражнение 1. Cоздание и использование класса <br />
+[**UniqueNumbers**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/UniqueNumbers) - Упражнение 2. Генерация номеров  <br />
+[**MoreMethods**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/MoreMethods) - Упражнение 3. Добавление дополнительных public методов <br />
