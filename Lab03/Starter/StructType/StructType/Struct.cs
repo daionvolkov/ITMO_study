@@ -9,7 +9,7 @@ class Struct
     public struct BankAccount
     {
         public long accountNumber;
-        public decimal accountBallance;
+        public decimal accountBalance;
         public AccountType accountType;
     }
 
@@ -19,7 +19,7 @@ class Struct
 
         // Присвоение значений полям.
         goldAccount.accountType = AccountType.Checking;
-        goldAccount.accountBallance = (decimal)3200.00;
+        goldAccount.accountBalance = (decimal)3200.00;
 
         try
         {
@@ -27,7 +27,7 @@ class Struct
             string? userInput = Console.ReadLine();
             goldAccount.accountNumber = long.Parse(userInput);
             Console.WriteLine("** Account Summaty **\n Account Number {0} \n Account Type {1} \n Account Ballance {2} $",
-            goldAccount.accountNumber, goldAccount.accountType, goldAccount.accountBallance);
+            goldAccount.accountNumber, goldAccount.accountType, goldAccount.accountBalance);
         }
         catch (Exception)
         {

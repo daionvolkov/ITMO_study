@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net6.0\CopyFileUpper.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net6.0\CopyFileUpper.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net6.0\CopyFileUpper.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net6.0\CopyFileUpper.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\bin\Debug\net6.0\CopyFileUpper.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\refint\CopyFileUpper.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\CopyFileUpper.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\CopyFileUpper\CopyFileUpper\obj\Debug\net6.0\ref\CopyFileUpper.dll

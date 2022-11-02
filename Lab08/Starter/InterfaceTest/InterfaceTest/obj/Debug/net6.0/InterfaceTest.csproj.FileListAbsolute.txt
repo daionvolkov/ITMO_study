@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\bin\Debug\net6.0\InterfaceTest.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\refint\InterfaceTest.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\InterfaceTest.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab08\Starter\InterfaceTest\InterfaceTest\obj\Debug\net6.0\ref\InterfaceTest.dll

@@ -7,7 +7,7 @@ namespace UniqueNumbers;
 class BankAccount
 {
     private long accountNumber;
-    private decimal accountBallance;
+    private decimal accountBalance;
     private AccountType accountType;
     private static long nextAccountNumber = 123;
 
@@ -16,10 +16,10 @@ class BankAccount
         return nextAccountNumber++;
     }
 
-    public void Populate(decimal ballance)
+    public void Populate(decimal balance)
     {
         accountNumber = NextNumber();
-        accountBallance = ballance;
+        accountBalance = balance;
         accountType = AccountType.Checking;
     }
     public long? Number()
@@ -28,7 +28,7 @@ class BankAccount
     }
     public decimal? Ballance()
     {
-        return accountBallance;
+        return accountBalance;
     }
     public AccountType Type()
     {

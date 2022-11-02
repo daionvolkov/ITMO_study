@@ -37,7 +37,7 @@ class CreateAccount
     public static void Write(BankAccount toWrite)
     {
         Console.WriteLine("Account number is {0}", toWrite.Number());
-        Console.WriteLine("Account balance is {0}", toWrite.Ballance());
+        Console.WriteLine("Account balance is {0}", toWrite.Balance());
         Console.WriteLine("Account type is {0}", toWrite.Type());
     }
 }

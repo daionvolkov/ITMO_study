@@ -6,7 +6,7 @@ namespace MoreMethods;
 internal class BankAccount
 {
     private long accountNumber;
-    private decimal accountBallance;
+    private decimal accountBalance;
     private AccountType accountType;
     private static long nextAccountNumber = 123;
 
@@ -15,19 +15,19 @@ internal class BankAccount
         return nextAccountNumber++;
     }
 
-    public void Populate(decimal ballance)
+    public void Populate(decimal balance)
     {
         accountNumber = NextNumber();
-        accountBallance = ballance;
+        accountBalance = balance;
         accountType = AccountType.Checking;
     }
     public long? Number()
     {
         return accountNumber;
     }
-    public decimal? Ballance()
+    public decimal? Balance()
     {
-        return accountBallance;
+        return accountBalance;
     }
     public AccountType Type()
     {
@@ -35,15 +35,15 @@ internal class BankAccount
     }
     public decimal Deposit(decimal amount)      // Метод увеличивает балланс счета и возвращает его
     {
-        accountBallance += amount;
-        return accountBallance;
+        accountBalance += amount;
+        return accountBalance;
     }
     public bool Withdraw(decimal amount)            // Метод проверяет указанную сумму на счету
     {
-        bool sufficientFunds = accountBallance >= amount;
+        bool sufficientFunds = accountBalance >= amount;
         if (sufficientFunds)
         {
-            accountBallance -= amount;
+            accountBalance -= amount;
         }
         return sufficientFunds;
     }

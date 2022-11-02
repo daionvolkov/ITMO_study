@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net6.0\Finalizers.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net6.0\Finalizers.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net6.0\Finalizers.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net6.0\Finalizers.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net6.0\Finalizers.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\refint\Finalizers.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\Finalizers.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net6.0\ref\Finalizers.dll

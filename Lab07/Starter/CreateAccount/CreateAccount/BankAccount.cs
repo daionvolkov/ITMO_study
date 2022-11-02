@@ -6,22 +6,22 @@ namespace CreateAccount;
 class BankAccount
 {
     private long? accountNumber;
-    private decimal? accountBallance;
+    private decimal? accountBalance;
     private AccountType accountType;
 
-    public void Populate(long number, decimal ballance)
+    public void Populate(long number, decimal balance)
     {
         accountNumber = number;
-        accountBallance = ballance;
+        accountBalance = balance;
         accountType = AccountType.Checking;
     }
     public long? Number()
     {
         return accountNumber;
     }
-    public decimal? Ballance()
+    public decimal? Balance()
     {
-        return accountBallance;
+        return accountBalance;
     }
     public AccountType Type()
     {

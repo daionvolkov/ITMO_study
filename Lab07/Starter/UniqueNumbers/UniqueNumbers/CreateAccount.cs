@@ -7,11 +7,9 @@ class CreateAccount
     static void Main()
     {
         BankAccount berts = NewBankAccount();   // Объект на основе класса BankAccount
-
         Write(berts);               // Вызов метода вывода  данных акканта
 
         BankAccount freds = NewBankAccount();   // Объект на основе класса BankAccount
-
         Write(freds);               // Вызов метода вывода  данных акканта
 
     }
@@ -22,9 +20,9 @@ class CreateAccount
         BankAccount created = new BankAccount();
 
         Console.Write("Enter the account ballance: ");
-        decimal ballance = decimal.Parse(Console.ReadLine());
+        decimal balance = decimal.Parse(Console.ReadLine());
 
-        created.Populate(ballance);
+        created.Populate(balance);
 
         return created;
     }
