@@ -1,4 +1,4 @@
-[## repository for learning at ITMO
+## repository for learning at ITMO
 
 ##C sharp Labs
 
