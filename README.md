@@ -2,7 +2,7 @@
 
 ###C sharp Labs
 #### **Lab02** - Лабораторная №1. Создание простой C#-программы
-**Greeter**  - Упражнение 1-3 <br />
+[**Greeter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/DivideIt)  - Упражнение 1-3 <br />
 **Devider** - Упражнение 4
 
 #### **Lab03** - Создание и использование размерных типов данных
