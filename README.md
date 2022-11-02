@@ -1,10 +1,7 @@
 ## repository for learning at ITMO
 
-<<<<<<< HEAD
-##C sharp Labs
-=======
 ### C sharp Labs
->>>>>>> c48a413bb962003e84ff04a93575ddd7c03b8469
+
 
 #### **Lab02**  Лабораторная №1. Создание простой C#-программы
 [**Greeter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/DivideIt)  - Упражнение 1-3 <br />
@@ -18,7 +15,6 @@
 [**WhatDay1**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay1) - Упражнение 1.1 <br />
 [**WhatDay2**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay2) - Упражнение 1.2 <br />
 [**WhatDay3**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay3) - Упражнение 2 <br />
-<<<<<<< HEAD
 
 #### **Lab05** Лабораторная №4. Создание и использование методов 
 [**Utils**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab05/Starter/Utility/Utils) - Упражнение 1, 2 <br />
@@ -41,4 +37,3 @@
 [**Finalizers**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab09/Starter/Finalizers) - Упражнение 2. Инициализация данных только для чтения. Упражнение 3. Использование шаблона для удаления объекто
 
 
->>>>>>> c48a413bb962003e84ff04a93575ddd7c03b8469
