@@ -5,11 +5,11 @@
 
 #### **Lab02**  Лабораторная №1. Создание простой C#-программы
 [**Greeter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/DivideIt)  - Упражнение 1-3 <br />
-[**Devider**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/Greetings) - Упражнение 4
+[**Devider**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/Greetings) - Упражнение 4 <br />
 
 #### **Lab03**  Лабораторная №2. Создание и использование размерных типов данных
-[**BankAccount**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/BankAccount)  - Упражнение 1
-[**StructType**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/StructType)  - Упражнение 2-3
+[**BankAccount**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/BankAccount)  - Упражнение 1 <br />
+[**StructType**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab03/Starter/StructType)  - Упражнение 2-3 <br />
 
 #### **Lab04**  Лабораторная №3. Использование выражений и исключений
 [**WhatDay1**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab04/Starter/WhatDay1) - Упражнение 1.1 <br />
