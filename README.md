@@ -1,6 +1,6 @@
 ## repository for learning at ITMO
 
-##C sharp Labs
+### C sharp Labs
 
 #### **Lab02** - Лабораторная №1. Создание простой C#-программы
 [**Greeter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/DivideIt)  - Упражнение 1-3 <br />
@@ -26,4 +26,4 @@
 [**CreateAccount**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/CreateAccount) -  Упражнение 1. Cоздание и использование класса <br />
 [**UniqueNumbers**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/UniqueNumbers) - Упражнение 2. Генерация номеров  <br />
 [**MoreMethods**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/MoreMethods) - Упражнение 3. Добавление дополнительных public методов <br />
-](https://github.com/daionvolkov/ITMO_study/tree/master/Lab07/Starter/MoreMethods)
+
