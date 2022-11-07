@@ -40,7 +40,7 @@
 [**ColorTokenser**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab10/Starter/ColorTokeniser) - Упражнение 1. Преобразование исходного файла на C# в файл HTML <br />
 #### **Lab11** Лабораторная №10. Использование модификатора доступа internal и создание сборок
 [**Exercise1\Starter\Bank**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab11/Exercise1/Starter/Bank) - Упражнение 1. Создание класса с модификатором internal <br />
-[**Exercise2\Starter\Bank **](https://github.com/daionvolkov/ITMO_study/tree/master/Lab11/Exercise2/Starter/Bank) - Упражнение 2. Организация классов в сборку
+[**Exercise2\Starter\Bank**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab11/Exercise2/Starter/Bank) - Упражнение 2. Организация классов в сборку
 
 
 
