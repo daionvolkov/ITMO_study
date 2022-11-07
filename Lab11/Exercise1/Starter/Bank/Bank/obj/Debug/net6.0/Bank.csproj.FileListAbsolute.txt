@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab11\Exercise1\Starter\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll

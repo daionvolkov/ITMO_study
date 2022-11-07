@@ -1,0 +1,15 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\bin\Debug\net6.0\ColorTokeniser.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\bin\Debug\net6.0\ColorTokeniser.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\bin\Debug\net6.0\ColorTokeniser.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\bin\Debug\net6.0\ColorTokeniser.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\bin\Debug\net6.0\ColorTokeniser.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\refint\ColorTokeniser.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ColorTokeniser.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab10\Starter\ColorTokeniser\ColorTokeniser\obj\Debug\net6.0\ref\ColorTokeniser.dll
