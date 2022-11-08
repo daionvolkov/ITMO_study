@@ -1,0 +1,17 @@
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.exe
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.deps.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.runtimeconfig.json
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\TestHarness.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\bin\Debug\net6.0\BANK.DLL
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.csproj.AssemblyReference.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfoInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.AssemblyInfo.cs
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.csproj.CopyComplete
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\refint\TestHarness.dll
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.pdb
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\TestHarness.genruntimeconfig.cache
+C:\Users\daion\OneDrive\Документы\ITMO_Study\Csharp\labs\Lab13\Exercise3\Starter\TestHarness\TestHarness\obj\Debug\net6.0\ref\TestHarness.dll

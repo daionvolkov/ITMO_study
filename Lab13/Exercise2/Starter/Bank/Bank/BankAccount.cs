@@ -16,6 +16,7 @@ namespace Banking
         private Audit accountAudit = null;
         private string holder;
         private event AuditEventHandler AuditingTransaction = null;
+        private int index = 2;
 
         private static long nextNumber = 123;
 
@@ -171,6 +172,7 @@ namespace Banking
         {
             return nextNumber++;
         }
+       
 
         ~BankAccount()
         {
