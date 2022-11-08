@@ -1,6 +1,7 @@
-﻿namespace Bankink;
-public enum AccountType
-{
-    Checking, Deposit
+﻿namespace Banking {   
+        public enum AccountType
+    {
+        Checking, Deposit
+    }
 }
 

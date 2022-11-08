@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Banking;
+namespace Banking { 
 
 public class BankTransaction
 {
@@ -22,4 +22,5 @@ public class BankTransaction
     {
         return when;
     }
+}
 }
