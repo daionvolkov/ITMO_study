@@ -22,9 +22,7 @@ class CreateAccount
         acc1.Holder = "Sid";
         acc2.Holder = "Ted";
 
-        // ADD CODE HERE TO SET THE NAMES OF THE ACCOUNT HOLDERS
-
-        // ADD CODE HERE TO GET THE NUMBER AND TYPE OF EACH ACCOUNT
+    
 
         // Print the accounts, using ToString
         Console.WriteLine("acc1 - {1} - {0}", acc1, acc1.Holder);

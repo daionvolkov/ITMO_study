@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace Banking { 
+namespace Banking
+{ 
 
 public class BankTransaction
 {
