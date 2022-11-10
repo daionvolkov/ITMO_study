@@ -138,6 +138,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+obj/
 
 # Spyder project settings
 .spyderproject
