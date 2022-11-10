@@ -2,27 +2,28 @@
 using System;
 using System.IO;
 
-namespace Banking
+namespace Banking;
+
+public class BankTransaction
 {
-    public class BankTransaction
+    private readonly decimal amount;
+    private readonly DateTime when;
+    private readonly BankTransaction transData = null;
+
+    public BankTransaction(decimal tranAmount)
     {
-        private readonly decimal amount;
-        private readonly DateTime when;
-
-        public BankTransaction(decimal tranAmount)
-        {
-            amount = tranAmount;
-            when = DateTime.Now;
-        }
-
-        public decimal Amount()
-        {
-            return amount;
-        }
-
-        public DateTime When()
-        {
-            return when;
-        }
+        amount = tranAmount;
+        when = DateTime.Now;
     }
+
+    public decimal Amount()
+    {
+        return amount;
+    }
+
+    public DateTime When()
+    {
+        return when;
+    }
+
 }
