@@ -42,6 +42,16 @@
 [**Exercise1\Starter\Bank**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab11/Exercise1/Starter/Bank) - Упражнение 1. Создание класса с модификатором internal <br />
 [**Exercise2\Starter\Bank**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab11/Exercise2/Starter/Bank) - Упражнение 2. Организация классов в сборку
 
+#### **Lab12** Лабораторная №11. Перегрузка операторов и использование событий
+[**Bank**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab12/Starter/Bank) - Упражнение 1. Перегрузка операторов для класса BankAccount. <br />
+[**Audit**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab12/Starter/Audit) - Упражнение 2. Определение и использование событий
+
+#### **Lab13** Лабораторная №12. Использование свойств и индексаторов
+[**Exercise1/Starter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab13/Exercise1/Starter) - Упражнение 1. Изменение класса BankAccount <br />
+[**Exercise2/Starter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab13/Exercise2/Starter) - Упражнение 2. Изменение класса BankTransaction <br />
+[**Exercise3/Starter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab13/Exercise3/Starter) - Упражнение 3. Создание и использование индексаторов
+
+
 
 
 
