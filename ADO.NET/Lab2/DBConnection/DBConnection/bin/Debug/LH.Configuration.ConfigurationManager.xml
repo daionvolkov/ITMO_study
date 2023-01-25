@@ -1,0 +1,1097 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LH.Configuration.ConfigurationManager</name>
+    </assembly>
+    <members>
+        <member name="T:LH.Configuration.AppSettings">
+            <summary>
+            映射到标准格式的 "appSettings" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.AppSettings.Properties">
+            <summary>
+            获取配置属性集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.AppSettings.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.AppSettings.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.AppSettings.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.AppSettingsPropertySet">
+            <summary>
+            配置属性集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.AppSettingsPropertySet.Count">
+            <summary>
+            获取配置属性集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.AppSettingsPropertySet.Keys">
+            <summary>
+            获取配置属性集合的键的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.AppSettingsPropertySet.Values">
+            <summary>
+            获取配置属性集合的值的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.AppSettingsPropertySet.Item(System.String)">
+            <summary>
+            获取或设置具有指定键的配置属性的值。直接赋值等同于 AddOrUpdate 方法。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.AddOrUpdate(System.String,System.String)">
+            <summary>
+            添加或更新一个配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.Clear">
+            <summary>
+            从配置属性集合中移除所有配置属性。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.ContainsKey(System.String)">
+            <summary>
+            确定配置属性集合是否包含带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.Remove(System.String)">
+            <summary>
+            从配置属性集合中移除带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.AppSettingsPropertySet.TryGetValue(System.String,System.String@)">
+            <summary>
+            获取与指定键关联的配置属性的值。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.ConfigSectionGroup">
+            <summary>
+            配置组。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroup.Groups">
+            <summary>
+            获取配置组集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroup.Sections">
+            <summary>
+            获取配置容器集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroup.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroup.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroup.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.ConfigSectionGroupSet">
+            <summary>
+             配置组集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroupSet.Count">
+            <summary>
+            获取配置组集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroupSet.Names">
+            <summary>
+            获取配置组集合的名称的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroupSet.Values">
+            <summary>
+            获取配置组集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionGroupSet.Item(System.String)">
+            <summary>
+            获取具有指定名称的配置组的值。
+            </summary>
+            <param name="name">配置组的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.Clear">
+            <summary>
+            从配置组集合中移除所有配置组。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.ContainsName(System.String)">
+            <summary>
+            确定配置组集合是否包含带有指定名称的配置组。
+            </summary>
+            <param name="name">配置组的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.GetOrAdd(System.String)">
+            <summary>
+            获取与指定名称关联的配置组的值。如果不存在，添加一个配置组并返回值。
+            </summary>
+            <param name="name">配置组的名称。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.Remove(System.String)">
+            <summary>
+            从配置组集合中移除带有指定名称的配置组。
+            </summary>
+            <param name="name">配置组的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionGroupSet.TryGetValue(System.String,LH.Configuration.ConfigSectionGroup@)">
+            <summary>
+            获取与指定名称关联的配置组的值。
+            </summary>
+            <param name="name">配置组的名称。</param>
+            <param name="value">配置组的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.ConfigSections">
+            <summary>
+            映射到标准格式的 "configSections" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSections.Groups">
+            <summary>
+            包含的配置组集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSections.Sections">
+            <summary>
+            包含的配置容器集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigSections.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSections.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSections.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.ConfigSectionSet">
+            <summary>
+            配置容器集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionSet.Count">
+            <summary>
+            获取配置容器集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionSet.Names">
+            <summary>
+            获取配置容器集合的名称的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionSet.Values">
+            <summary>
+            获取配置容器集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigSectionSet.Item(System.String)">
+            <summary>
+            获取具有指定名称的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.Clear">
+            <summary>
+            从配置容器集合中移除所有配置容器。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.ContainsName(System.String)">
+            <summary>
+            确定配置容器集合是否包含带有指定名称的配置容器。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.GetOrAdd(System.String,LH.Configuration.ConfigSectionType)">
+            <summary>
+            获取与指定名称关联的配置容器的值。如果不存在，添加一个配置容器并返回值。不能使用此方法获取或添加 CustumSection 类型。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="type">配置容器的类型。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.Remove(System.String)">
+            <summary>
+            从配置容器集合中移除带有指定名称的配置容器。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.TryGetValue(System.String,LH.Configuration.CustumSection@)">
+            <summary>
+            获取与指定名称关联的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="value">配置容器的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.TryGetValue(System.String,LH.Configuration.DictionarySection@)">
+            <summary>
+            获取与指定名称关联的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="value">配置容器的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.TryGetValue(System.String,LH.Configuration.NameValueSection@)">
+            <summary>
+            获取与指定名称关联的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="value">配置容器的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.TryGetValue(System.String,LH.Configuration.SingleTagSection@)">
+            <summary>
+            获取与指定名称关联的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="value">配置容器的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigSectionSet.TryGetValue(System.String,LH.Configuration.IConfigSection@)">
+            <summary>
+            获取与指定名称关联的配置容器的值。
+            </summary>
+            <param name="name">配置容器的名称。</param>
+            <param name="value">配置容器的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.ConfigSectionType">
+            <summary>
+            配置容器的类型。
+            </summary>
+        </member>
+        <member name="F:LH.Configuration.ConfigSectionType.CustumSection">
+            <summary>
+            LH.Configuration.CustumSectionHandler 类型。
+            </summary>
+        </member>
+        <member name="F:LH.Configuration.ConfigSectionType.DictionarySection">
+            <summary>
+            System.Configuration.DictionarySectionHandler 类型。
+            </summary>
+        </member>
+        <member name="F:LH.Configuration.ConfigSectionType.NameValueSection">
+            <summary>
+            System.Configuration.NameValueSectionHandler 类型。
+            </summary>
+        </member>
+        <member name="F:LH.Configuration.ConfigSectionType.SingleTagSection">
+            <summary>
+            System.Configuration.SingleTagSectionHandler 类型。
+            </summary>
+        </member>
+        <member name="T:LH.Configuration.ConfigurationManager">
+            <summary>
+            配置管理器。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigurationManager.AppSettings">
+            <summary>
+            映射到标准格式的 "appSettings" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigurationManager.AutoSave">
+            <summary>
+            获取或设置自动保存选项。如果在创建 <see cref="T:LH.Configuration.ConfigurationManager"/> 实例时没有指定文件路径，此选项无效。默认值是 false。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigurationManager.ConfigSections">
+            <summary>
+            映射到标准格式的 "configSections" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigurationManager.ConnectionStrings">
+            <summary>
+            映射到标准格式的 "connectionStrings" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConfigurationManager.FilePath">
+            <summary>
+            获取映射的配置文件的路径。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.#ctor">
+            <summary>
+            创建 ConfigurationManager 的新实例。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.#ctor(System.IO.Stream)">
+            <summary>
+            创建 ConfigurationManager 的新实例。
+            </summary>
+            <param name="stream">指定配置文件的流。</param>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.#ctor(System.String)">
+            <summary>
+            创建 ConfigurationManager 的新实例。
+            </summary>
+            <param name="filePath">指定配置文件的路径。</param>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Finalize">
+            <summary>
+            释放由 <see cref="T:LH.Configuration.ConfigurationManager"/> 使用的所有资源。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Dispose">
+            <summary>
+            释放由 <see cref="T:LH.Configuration.ConfigurationManager"/> 使用的所有资源。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.CreateAppConfigManager">
+            <summary>
+            创建映射到默认配置文件的 <see cref="T:LH.Configuration.ConfigurationManager"/> 实例。文件路径形如 Directory\program.exe.config。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Save">
+            <summary>
+            保存到创建 <see cref="T:LH.Configuration.ConfigurationManager"/> 实例时指定的文件。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Save(System.IO.Stream)">
+            <summary>
+            保存到指定的流。
+            </summary>
+            <param name="stream">指定配置文件的流。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.Save(System.String)">
+            <summary>
+            保存到指定的文件。
+            </summary>
+            <param name="filePath">指定配置文件的路径。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConfigurationManager.ToString">
+            <summary>
+            方法已重写。返回根节点的缩进 XML 文本。不包括文档声明。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.ConnectionStrings">
+            <summary>
+            映射到标准格式的 "connectionStrings" 节点。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStrings.Properties">
+            <summary>
+            包含的连接属性集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStrings.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStrings.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStrings.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.ConnectionStringsPropertySet">
+            <summary>
+            连接属性集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsPropertySet.Count">
+            <summary>
+            获取连接属性集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsPropertySet.Names">
+            <summary>
+            获取连接属性集合的名称的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsPropertySet.Values">
+            <summary>
+            获取连接属性集合的值的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsPropertySet.Item(System.String)">
+            <summary>
+            获取或设置具有指定名称的连接属性的值。直接赋值等同于 AddOrUpdate 方法。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.AddOrUpdate(System.String,LH.Configuration.ConnectionStringsValue)">
+            <summary>
+            添加或更新一个连接属性。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="value">连接属性的值。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.AddOrUpdate(System.String,System.Data.Common.DbConnection)">
+            <summary>
+            添加或更新一个连接属性。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="connection">数据库连接实例。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.AddOrUpdate(System.String,System.String,System.String)">
+            <summary>
+            添加或更新一个连接属性。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="connectionString">连接字符串。</param>
+            <param name="providerName">数据库引擎的文本名称。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.Clear">
+            <summary>
+            从连接属性集合中移除所有连接属性。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.ContainsName(System.String)">
+            <summary>
+            确定连接属性集合是否包含带有指定名称的连接属性。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.Remove(System.String)">
+            <summary>
+            从连接属性集合中移除带有指定名称的连接属性。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.TryGetValue(System.String,LH.Configuration.ConnectionStringsValue@)">
+            <summary>
+            获取与指定名称关联的连接属性的值。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="value">连接属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.TryGetValue(System.String,System.Data.Common.DbConnection@)">
+            <summary>
+            获取与指定名称关联的连接属性的值。如果连接属性中没有数据库引擎参数，将引发异常。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="connection">连接属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsPropertySet.TryGetValue(System.String,System.String@,System.String@)">
+            <summary>
+            获取与指定名称关联的连接属性的值。
+            </summary>
+            <param name="name">连接属性的名称。</param>
+            <param name="connectionString">连接字符串。</param>
+            <param name="providerName">数据库引擎的文本名称。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.ConnectionStringsValue">
+            <summary>
+            连接属性。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsValue.Connection">
+            <summary>
+            获取连接实例。如果连接属性中没有数据库引擎参数，将引发异常。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsValue.ConnectionString">
+            <summary>
+            获取连接字符串。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ConnectionStringsValue.ProviderName">
+            <summary>
+            获取数据库引擎的文本名称。如果连接属性没有数据库引擎参数，值是 null。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsValue.#ctor(System.Data.Common.DbConnection)">
+            <summary>
+            创建 ConnectionStringsValue 的新实例。
+            </summary>
+            <param name="connection">数据库连接实例。</param>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsValue.#ctor(System.String,System.String)">
+            <summary>
+            创建 ConnectionStringsValue 的新实例。
+            </summary>
+            <param name="connectionString">连接字符串。</param>
+            <param name="providerName">数据库引擎的文本名称。</param>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsValue.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsValue.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.ConnectionStringsValue.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.CustumSection">
+            <summary>
+            配置容器。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.CustumSection.Value">
+            <summary>
+            获取或设置配置容器的串联内容。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.CustumSection.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.CustumSection.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.CustumSection.GetValue">
+            <summary>
+            获取配置容器的串联内容。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.CustumSection.SetValue(System.String)">
+             <summary>
+             设置配置容器的串联内容。
+             </summary>
+             <param name="value">配置容器的串联内容。</param>
+             <returns></returns>
+            
+        </member>
+        <member name="M:LH.Configuration.CustumSection.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.DictionarySection">
+            <summary>
+            配置容器。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.DictionarySection.Properties">
+            <summary>
+            获取配置属性集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.DictionarySection.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.DictionarySection.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.DictionarySection.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.DictionarySectionPropertySet">
+            <summary>
+            配置属性集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.DictionarySectionPropertySet.Count">
+            <summary>
+            获取配置属性集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.DictionarySectionPropertySet.Keys">
+            <summary>
+            获取配置属性集合的键的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.DictionarySectionPropertySet.Values">
+            <summary>
+            获取配置属性集合的值的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.DictionarySectionPropertySet.Item(System.String)">
+            <summary>
+            获取或设置具有指定键的配置属性的值。直接赋值等同于 AddOrUpdate 方法。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.AddOrUpdate(System.String,System.Object)">
+            <summary>
+            添加或更新一个配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.Clear">
+            <summary>
+            从配置属性集合中移除所有配置属性。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.ContainsKey(System.String)">
+            <summary>
+            确定配置属性集合是否包含带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.Remove(System.String)">
+            <summary>
+            从配置属性集合中移除带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.DictionarySectionPropertySet.TryGetValue(System.String,System.Object@)">
+            <summary>
+            获取与指定键关联的配置属性的值。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.ExceptionMessage">
+            <summary>
+            错误消息。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ExceptionMessage.Message">
+            <summary>
+            消息的本地化内容。
+            </summary>
+        </member>
+        <member name="T:LH.Configuration.ExceptionMessages">
+            <summary>
+            本地化错误消息。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ExceptionMessages.DuplicateKey">
+            <summary>
+            表示在一个列表中，遇到重复键时引发的错误。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ExceptionMessages.InvalidKey">
+            <summary>
+            表示指定了无效的键时引发的错误。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.ExceptionMessages.InvalidType">
+            <summary>
+            表示指定了无效的类型或类型枚举时引发的错误。
+            </summary>
+        </member>
+        <member name="T:LH.Configuration.IConfigSection">
+            <summary>
+            配置容器。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.IConfigSection.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.IConfigSection.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.IConfigSection.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:LH.Configuration.ISavable.AutoSave">
+            <summary>
+            获取自动保存选项。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.ISavable.Save">
+            <summary>
+            保存到创建 <see cref="T:LH.Configuration.ConfigurationManager"/> 实例时指定的文件。
+            </summary>
+        </member>
+        <member name="T:LH.Configuration.NameValueSection">
+            <summary>
+            配置容器。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.NameValueSection.Properties">
+            <summary>
+            获取配置属性集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.NameValueSection.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.NameValueSection.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.NameValueSection.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.NameValueSectionPropertySet">
+            <summary>
+            配置属性集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.NameValueSectionPropertySet.Count">
+            <summary>
+            获取配置属性集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.NameValueSectionPropertySet.Keys">
+            <summary>
+            获取配置属性集合的键的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.NameValueSectionPropertySet.Values">
+            <summary>
+            获取配置属性集合的值的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.NameValueSectionPropertySet.Item(System.String)">
+            <summary>
+            获取或设置具有指定键的配置属性的值。直接赋值等同于 AddOrUpdate 方法。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.AddOrUpdate(System.String,System.String)">
+            <summary>
+            添加或更新一个配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.AddOrUpdate(System.String,System.String[])">
+            <summary>
+            添加或更新一个配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。以逗号 "," 连接为一个字符串。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.Clear">
+            <summary>
+            从配置属性集合中移除所有配置属性。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.ContainsKey(System.String)">
+            <summary>
+            确定配置属性集合是否包含带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.Remove(System.String)">
+            <summary>
+            从配置属性集合中移除带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.TryGetValue(System.String,System.String@)">
+            <summary>
+            获取与指定键关联的配置属性的值。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.NameValueSectionPropertySet.TryGetValue(System.String,System.String[]@)">
+            <summary>
+            获取与指定键关联的配置属性的值。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。以逗号 "," 分割字符串。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="T:LH.Configuration.SingleTagSection">
+            <summary>
+            配置容器。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.SingleTagSection.Properties">
+            <summary>
+            获取配置属性集合。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSection.Equals(System.Object)">
+            <summary>
+            确定指定的对象是否等于当前对象。
+            </summary>
+            <param name="obj">要与当前对象进行比较的对象。</param>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSection.GetHashCode">
+            <summary>
+            作为默认哈希函数。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSection.ToString">
+            <summary>
+            方法已重写。返回节点的缩进 XML 文本。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:LH.Configuration.SingleTagSectionPropertySet">
+            <summary>
+            配置属性集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.SingleTagSectionPropertySet.Count">
+            <summary>
+            获取配置属性集合中包含的元素数。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.SingleTagSectionPropertySet.Keys">
+            <summary>
+            获取配置属性集合的键的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.SingleTagSectionPropertySet.Values">
+            <summary>
+            获取配置属性集合的值的集合。
+            </summary>
+        </member>
+        <member name="P:LH.Configuration.SingleTagSectionPropertySet.Item(System.String)">
+            <summary>
+            获取或设置具有指定键的配置属性的值。直接赋值等同于 AddOrUpdate 方法。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.AddOrUpdate(System.String,System.String)">
+            <summary>
+            添加或更新一个配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.Clear">
+            <summary>
+            从配置属性集合中移除所有配置属性。
+            </summary>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.ContainsKey(System.String)">
+            <summary>
+            确定配置属性集合是否包含带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.GetEnumerator">
+            <summary>
+            支持在泛型集合上进行简单迭代。
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.Remove(System.String)">
+            <summary>
+            从配置属性集合中移除带有指定键的配置属性。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+        <member name="M:LH.Configuration.SingleTagSectionPropertySet.TryGetValue(System.String,System.String@)">
+            <summary>
+            获取与指定键关联的配置属性的值。
+            </summary>
+            <param name="key">配置属性的键。</param>
+            <param name="value">配置属性的值。</param>
+            <returns></returns>
+            <exception cref="T:System.Exception"/>
+        </member>
+    </members>
+</doc>
