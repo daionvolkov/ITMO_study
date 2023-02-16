@@ -5,17 +5,16 @@
 [**CSS**](https://github.com/daionvolkov/ITMO_study/tree/master/HTML%20CSS/CSS)<br />
 
 ### C sharp ADO.NET <br />
-[**ADO.NET Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET)<br />
-[**ADO.NET Credit Task**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET/CreditTask/OffsetDB)<br />
+[**C sharp ADO.NET Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET)<br />
+[**C sharp ADO.NET Credit Task**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET/CreditTask/OffsetDB)<br />
 
 ### C sharp ASP.NET <br />
-[**ASP.NET Web Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/WEB)<br />
-[**ASP.NET MVC Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/MVC)<br />
-[**ASP.NET Entity Framework Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/ASP.NET%20Entity%20Framework)<br />
+[**C sharp ASP.NET Web Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/WEB)<br />
+[**C sharp ASP.NET MVC Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/MVC)<br />
+[**C sharp ASP.NET Entity Framework Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/ASP.NET%20Entity%20Framework)<br />
+[**C sharp ASP.NET Credit Task**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/StudentsDairyMVC)
 
 ### C sharp Labs
-
-
 #### **Lab02**  Лабораторная №1. Создание простой C#-программы
 [**Greeter**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/DivideIt)  - Упражнение 1-3 <br />
 [**Devider**](https://github.com/daionvolkov/ITMO_study/tree/master/Lab02/Greetings) - Упражнение 4 <br />
