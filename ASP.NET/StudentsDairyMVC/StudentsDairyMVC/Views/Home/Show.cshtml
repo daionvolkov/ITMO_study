@@ -1,0 +1,26 @@
+﻿@model IEnumerable<StudentsDairyMVC.Models.Score>
+
+@{
+    Layout = Layout;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Информация</title>
+</head>
+<body>
+    <div>
+        <p>
+            @Html.DisplayNameFor(model => model.ScoreValue)
+        </p>
+
+        <p>
+            @Html.DisplayNameFor(model => model.ScoreDescription)
+        </p>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<StudentsDairyMVC.Models.Student>
+
+
+@{
+    Layout = Layout;
+
+    int sumScore = 0;
+}
+
+<h2>Список студентов</h2>
+<div class="link-item-add">
+    <a class="btn btn-info" href="/Home/Add">Добавить студента</a>
+    <button class="btn-common-ball btn btn-info">Общий бал</button>
+</div>
+
+
+
+
+<div class="container">
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Имя</th>
+                <th scope="col">Фамилия </th>
+                <th scope="col">Оценка </th>
+            </tr>
+        </thead>
+
+        @foreach (StudentsDairyMVC.Models.Student b in Model)
+        {
+            <tbody>
+                <tr>
+
+                    <td><p>@b.FirstName</p></td>
+                    <td><p>@b.LastName</p></td>
+                    <td><p>@b.ScoreId</p></td>
+                    <td><p><a class="edit-link" href="/Home/Show/@b.Id">Посмотреть</a> </p></td>
+                    <td><p><a class="edit-link" href="/Home/Edit/@b.Id">Редактировать</a> </p></td>
+                    <td><p><a class="delete-link" href="/Home/Delete/@b.Id">Удалить</a> </p></td>
+                    @{
+
+                        sumScore += b.ScoreId;
+                    }
+                </tr>
+            </tbody>
+        }
+
+    </table>
+    <div class="common-ball">
+        <p class="common-name">Общий бал: &nbsp <span>@sumScore</span></p>
+    </div>
+</div>
+
+
+
+

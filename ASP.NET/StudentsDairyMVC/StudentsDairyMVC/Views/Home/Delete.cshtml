@@ -1,0 +1,18 @@
+﻿@model StudentsDairyMVC.Models.Student
+
+@{
+    Layout = Layout;
+}
+
+<h3>Удалить запись</h3> 
+<h5>
+    @Html.DisplayFor(model => model.FirstName)
+</h5>
+<h5>
+    @Html.DisplayFor(model => model.LastName)
+</h5>
+
+@using (Html.BeginForm())
+            {
+                <input class="btn btn-warning" type="submit" value="Удалить"/>
+            }

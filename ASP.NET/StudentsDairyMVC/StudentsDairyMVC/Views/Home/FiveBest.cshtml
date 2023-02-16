@@ -1,0 +1,55 @@
+﻿@model IEnumerable<StudentsDairyMVC.Models.Student>
+
+
+@{
+    Layout = Layout;
+
+    int count = 0;
+
+}
+
+<h2>Список пяти лучших студентов</h2>
+
+
+
+
+<div class="container">
+
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Имя</th>
+                <th scope="col">Фамилия </th>
+                <th scope="col">Оценка </th>
+            </tr>
+        </thead>
+
+        @foreach (var b in Model)
+        {
+            <tbody>
+                <tr>
+
+                    <td><p>@b.FirstName</p></td>
+                    <td><p>@b.LastName</p></td>
+                    <td><p>@b.ScoreId</p></td>
+                   @{
+                       count += 1;
+                   } 
+
+                     @{ if (count == 5)
+                         { break; }
+                     }
+                  </tr>
+
+
+              </tbody>
+        }
+
+    </table>
+
+</div>
+
+
+
+
