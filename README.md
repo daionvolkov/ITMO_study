@@ -1,15 +1,15 @@
 ## repository for learning at ITMO
 
 ### HTML CSS Labs 1-4
-[**HTML**](https://github.com/daionvolkov/ITMO_study/tree/master/HTML%20CSS)
-[**CSS**](https://github.com/daionvolkov/ITMO_study/tree/master/HTML%20CSS/CSS)
+[**HTML**](https://github.com/daionvolkov/ITMO_study/tree/master/HTML%20CSS)<br />
+[**CSS**](https://github.com/daionvolkov/ITMO_study/tree/master/HTML%20CSS/CSS)<br />
 ###C sharp ADO.NET 
-[**Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET)
-[**Credit Task**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET/CreditTask/OffsetDB)
+[**Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET)<br />
+[**Credit Task**](https://github.com/daionvolkov/ITMO_study/tree/master/ADO.NET/CreditTask/OffsetDB)<br />
 ###C sharp ASP.NET 
-[**Web Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/WEB)
-[**MVC Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/MVC)
-[**Entity Framework Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/ASP.NET%20Entity%20Framework)
+[**Web Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/WEB)<br />
+[**MVC Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/MVC)<br />
+[**Entity Framework Labs**](https://github.com/daionvolkov/ITMO_study/tree/master/ASP.NET/ASP.NET%20Entity%20Framework)<br />
 
 ### C sharp Labs
 
