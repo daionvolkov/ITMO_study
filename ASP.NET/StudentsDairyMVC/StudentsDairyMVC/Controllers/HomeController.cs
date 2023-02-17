@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
 
@@ -84,11 +85,6 @@ namespace StudentsDairyMVC.Controllers
         public ActionResult Show(int? id)
         {
             Score score = db.Scores.Find(id);
-
-            if (score == null)
-            {
-                return HttpNotFound();
-            }
             return View(score);
 
         }

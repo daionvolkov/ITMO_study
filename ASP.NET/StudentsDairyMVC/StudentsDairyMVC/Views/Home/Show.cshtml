@@ -1,4 +1,5 @@
-﻿@model IEnumerable<StudentsDairyMVC.Models.Score>
+﻿@model StudentsDairyMVC.Models.Score
+
 
 @{
     Layout = Layout;
@@ -13,13 +14,16 @@
 </head>
 <body>
     <div>
-        <p>
-            @Html.DisplayNameFor(model => model.ScoreValue)
-        </p>
 
-        <p>
-            @Html.DisplayNameFor(model => model.ScoreDescription)
-        </p>
+        <fieldset>
+            <br/>
+            @Html.LabelFor(s => s.ScoreDescription, "Предмет")
+            @Html.DisplayFor(s => s.ScoreDescription)
+            <br />
+            @Html.LabelFor(s => s.ScoreValue, "Оценка")
+            @Html.DisplayFor(s => s.ScoreValue)
+
+        </fieldset>
 
     </div>
 </body>
